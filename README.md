@@ -16,16 +16,15 @@ Realizar el cálculo respectivo del ISR sobre el sueldo bruto acorde a la siguie
 
 ## Etapa 2. Diseño de la solucion
 
- 1.int trabajadores
- 2.int antiguedad
- 3.int horas
- 4.int salarios
- 5.String nombre
- 6.String rfc
- 7.String curp
- 8.String gmail
- 9.int telefono
-
+ 1. int trabajadores
+ 2. int antiguedad
+ 3. int horas
+ 4. int salarios
+ 5. String nombre
+ 6. String rfc
+ 7. String curp
+ 8. String gmail
+ 9. int telefono
 
 ## Etapa 3. Diseño de la solucion
 
