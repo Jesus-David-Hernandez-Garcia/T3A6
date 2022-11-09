@@ -33,7 +33,10 @@ Realizar el cálculo respectivo del ISR sobre el sueldo bruto acorde a la siguie
 14. int años
 15. double resultado 
 16. doueble ISR 
-17 double nomina
+17. double nomina
+18. int telefono
+19. int contrato
+20. int tipoempleado
 
 +-------------------------------------------------------------------------------+
 |la empresa es cdmx                                                             |
