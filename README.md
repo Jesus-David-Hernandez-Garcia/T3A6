@@ -16,15 +16,36 @@ Realizar el cálculo respectivo del ISR sobre el sueldo bruto acorde a la siguie
 
 ## Etapa 2. Diseño de la solucion
 
- 1. int trabajadores
- 2. int antiguedad
- 3. int horas
- 4. int salarios
- 5. String nombre
- 6. String rfc
- 7. String curp
- 8. String gmail
- 9. int telefono
+ 1. int empleados
+ 2. double nomina
+ 3. float  salario
+ 4. double base
+ 5. doueble base1
+ 5. String  sucursal
+ 6. String nombre
+ 7. String apellidoPaterno 
+ 8. String apellidoMaterno
+ 9. String curp
+10. String email
+11. String rfc
+12. double salarioNeto
+13. double  bono
+14. int años
+15. double resultado 
+16. doueble ISR 
+17 double nomina
+
++-------------------------------------------------------------------------------+
+|la empresa es cdmx                                                             |
+| el nombre del empleado es ioannes melgarejo torres                            |
+| el frc del empleado es 1234567                                                |
+|el curp del empleado es meti040701hpllrna8                                     |
+|el correo electronico del empleado es ioannes107@gmail.com                     |
+|el salario neto del empleado ioannes ixca melgarejo torres es 100              |
+|la nomina de todos los empleados es de 1000                                    |
+|                                                                               |
+|                                                                               |
++-------------------------------------------------------------------------------+
 
 ## Etapa 3. Diseño de la solucion
 
