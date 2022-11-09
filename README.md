@@ -52,5 +52,8 @@ Realizar el cálculo respectivo del ISR sobre el sueldo bruto acorde a la siguie
  ~~~
 ## Etapa 3. Diseño de la solucion
 
+![](https://github.com/Jesus-David-Hernandez-Garcia/T3A6/blob/main/T3A6.png)
 
 ## Etapa 4. Desarrolo de la solución
+
+
