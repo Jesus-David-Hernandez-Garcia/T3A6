@@ -37,19 +37,19 @@ Realizar el cálculo respectivo del ISR sobre el sueldo bruto acorde a la siguie
 18. int telefono
 19. int contrato
 20. int tipoempleado
-
+ ~~~
 +-------------------------------------------------------------------------------+
 |la empresa es cdmx                                                             |
-| el nombre del empleado es ioannes melgarejo torres                            |
+| el nombre del empleado es Jesus David Hernández Garcia                        |
 | el frc del empleado es 1234567                                                |
-|el curp del empleado es meti040701hpllrna8                                     |
-|el correo electronico del empleado es ioannes107@gmail.com                     |
-|el salario neto del empleado ioannes ixca melgarejo torres es 100              |
+|el curp del empleado es jesu040701hpllrna8                                     |
+|el correo electronico del empleado es davo40502r@gmail.com                     |
+|el salario neto del empleado jesus david hernandez garcia es 100               |
 |la nomina de todos los empleados es de 1000                                    |
 |                                                                               |
 |                                                                               |
 +-------------------------------------------------------------------------------+
-
+ ~~~
 ## Etapa 3. Diseño de la solucion
 
 
